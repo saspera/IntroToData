@@ -16,8 +16,7 @@ You have two lab tasks this week that are due by midnight on January 28th.
    - This is this simplified version of a real dataset that has been used in over 100 publications.
 4. 'TickCollectionBlandyExperimentalFarm.pdf' which can also be downloaded from the Course Documents>Introduction>Lab folder on Blackboard
 
-### A.
-### Introduction
+### A. Introduction
 One of the major goals of this class is for everyone to leave here with a better understanding of how to collect data, different types of data, and how to ask questions and perform the appropriate statistical analyses on any dataset. So today, we're going to jump right into working with data and learn about the best practices and common pitfalls of data organization. If you organize your data in the most 'tidy' way, it makes data analyis (and science) so. much. easier. I don't think you'd believe me if I told you the amount of time (approimately my entire fourth year of graduate school) I've spent just organzing data, or 'data wrangling', before I could even begin to think about analyzing it. 
 
 ![sciencegif](https://github.com/saspera/assets/blob/master/ronburgundyscience.gif)
@@ -292,8 +291,25 @@ But, some things to keep in mind.
 data formatting best practice still apply
 - Is there really a good reason why csv won't work? Just save it as a CSV file.
 
-## To finish Part A of this lab, upload your Word file to Blackboard. 
+#### Save your Word file as you're going to add to it in Part B of the lab 
 
+### B. Introduction
+You were just handed field notes on research on density of ticks on the [Blandy Experimental Farm](https://www.neonscience.org/field-sites/blan) in Northern Virginia. Your advisor said that the field researcher went out to sample and perform tick counts over different land-covers, in pasture and in deciduous forest cover. She went out every three weeks where ticks had been previously detected, and six weeks everywhere else. She also told you that she sampled for abundance using drag cloths – [i.e. dragging a cloth behind her while walking in predetermined areas, and then counting the ticks that became attached to it](https://en.wikipedia.org/wiki/Tick_dragging). This work may seem tedious, but determining where and when ticks are most prevalent are essential for understanding the transmission of debilitating diseases like Lyme disease, particularly as Lyme and other tick-borne diseases doubled between 2004 and 2016, from 22,000 to 48,000 [Bai et al. 2016](https://www.ucsf.edu/news/2018/05/410401/lyme-disease-rise-expert-explains-why) and ticks that transmit Lyme disease are now found in over 48% of counties in the United States [Eisen et al. 2016](https://academic.oup.com/jme/article/53/2/349/2459744). 
+
+```diff 
++ Your advisor has given you a few tasks for these data. 
+1. Take handwritten field notes (TickCollectionBlandyExperimentalFarm.pdf on Blackboard) and create an Excel workbook with the data using best data management practices.
+2. Create a hypothesis having to do with tick prevalence and any other variable that you already have information on or, you think can get information on.
+3. Brainstorm some methods you think you would use to get any other data you need to test your hypothesis, and what statistical tests you would perform, or what graphs you might make. 
+```
+
+### What To Turn In
+#### For Parts A & B (Remember, Part C is answering a few questions through the Mastering Geography site)
+- [ ] A Word document with
+   - Your answers to the questions in Part A
+   - A statement of the hypothesis you came up with in Part B
+   - A few sentences describing the methods you think you would use to get any other data you need to test your hypothesis, and what statistical tests you would perform, or what graphs you might make. Note: There’s no one right answer here. But, there might be some wrong answers. 
+- [ ] The Excel workbook with the tick-field data organized using tidy data practices. 
 
 
 
