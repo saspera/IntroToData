@@ -1,5 +1,4 @@
 # Lab 1: Maps, Tidy Data, the Scientific Method
-(Geography 250, 9 am section)
 
 You have three lab tasks this week:.
 - [ ] A. Go through the assignment below on tidy data (info in this link)
