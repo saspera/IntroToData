@@ -1,20 +1,20 @@
 # Lab 1: Maps, Tidy Data, the Scientific Method
 (Geography 250, 9 am section)
 
-You have two lab tasks this week that are due by midnight on January 28th.
-- [ ] A. Go through the assignment below on tidy data 
-- [ ] B. Using your new tidy data skills, take handwritten field notes and organize them according to best tidy data principles 
-- [ ] C. Complete the Week 1: Earth, Maps, Scales Assignment through Mastering Geography (found through Blackboard)
+You have three lab tasks this week:.
+- [ ] A. Go through the assignment below on tidy data (info in this link)
+- [ ] B. Using your new tidy data skills, take handwritten field notes and organize them according to best tidy data principles (info in this link)
+- [ ] C. Complete the Earth, Maps, Scales Assignment through Mastering Geography (found through Blackboard in the Week 1>Lab 1 folder)
 
 ###### Adopted fromm DataCarpentry.org
 
 #### You'll need
 1. Microsoft Excel (freely available to all UR students)
 2. Microsoft Word (to write up your answers which you'll submit to Blackboard at the end of the class period)
-3. 'survey_data_spreadsheet.xlsx' which can be found in the Course Documents>Introduction>Lab folder on Blackboard: from the Labs>Lab 1 folder on Blackboard
+3. 'survey_data_spreadsheet.xlsx' which can be found in the Course Documents>Week 1>Lab 1>Data folder on Blackboard
    - These data are observations of a small mammal community in southern Arizona. It's part of a project studying the effects of rodents and ants on the plant community and this project has been running for more than 40 years. The rodents are sampled on a series of 24 plots, with different experimental manipulations controlling which rodents are allowed to access which plots. 
    - This is this simplified version of a real dataset that has been used in over 100 publications.
-4. 'TickCollectionBlandyExperimentalFarm.pdf' which can also be downloaded from the Course Documents>Introduction>Lab folder on Blackboard
+4. 'TickCollectionBlandyExperimentalFarm.pdf' which can also be downloaded from the Course Documents>Week 1>Lab 1>Data folder on Blackboard
 
 ### A. Introduction
 One of the major goals of this class is for everyone to leave here with a better understanding of how to collect data, different types of data, and how to ask questions and perform the appropriate statistical analyses on any dataset. So today, we're going to jump right into working with data and learn about the best practices and common pitfalls of data organization. If you organize your data in the most 'tidy' way, it makes data analyis (and science) so. much. easier. I don't think you'd believe me if I told you the amount of time (approimately my entire fourth year of graduate school) I've spent just organzing data, or 'data wrangling', before I could even begin to think about analyzing it. 
