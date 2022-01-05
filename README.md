@@ -3,7 +3,7 @@
 You have three lab tasks this week:.
 - [ ] A. Go through the assignment below on tidy data (info in this link)
 - [ ] B. Using your new tidy data skills, take handwritten field notes and organize them according to best tidy data principles (info in this link)
-- [ ] C. Complete the Earth, Maps, Scales Assignment through Mastering Geography (found through Blackboard in the Week 1>Lab 1 folder)
+- [ ] C. Complete the Scientific Method & Earth, Maps, Scales Worksheet on Blackboard (found in Blackboard>Labs>Lab 1 folder)
 
 ###### Adopted fromm DataCarpentry.org
 
