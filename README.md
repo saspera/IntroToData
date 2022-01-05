@@ -303,7 +303,8 @@ You were just handed field notes on research on density of ticks on the [Blandy 
 ```
 
 ### What To Turn In
-#### For Parts A & B (Remember, Part C is answering a few questions through the Mastering Geography site)
+#### For Parts 1 submit on Blackboard
+*(Remember, Part 2 is answering the scientific method/scale worksheet on Blackboard)
 - [ ] A Word document with
    - Your answers to the questions in Part A
    - A statement of the hypothesis you came up with in Part B
