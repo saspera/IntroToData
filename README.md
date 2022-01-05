@@ -303,7 +303,7 @@ You were just handed field notes on research on density of ticks on the [Blandy 
 ```
 
 ### What To Turn In
-#### For Parts 1 submit on Blackboard
+#### For Parts 1, submit to Blackboard:
 *(Remember, Part 2 is answering the scientific method/scale worksheet on Blackboard)
 - [ ] A Word document with
    - Your answers to the questions in Part A
