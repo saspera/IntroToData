@@ -15,7 +15,7 @@ You have three lab tasks this week:.
    - This is this simplified version of a real dataset that has been used in over 100 publications.
 4. 'TickCollectionBlandyExperimentalFarm.pdf' which can also be downloaded from the Course Documents>Week 1>Lab 1>Data folder on Blackboard
 
-### A. Introduction
+### Part A. Introduction
 One of the major goals of this class is for everyone to leave here with a better understanding of how to collect data, different types of data, and how to ask questions and perform the appropriate statistical analyses on any dataset. So today, we're going to jump right into working with data and learn about the best practices and common pitfalls of data organization. If you organize your data in the most 'tidy' way, it makes data analyis (and science) so. much. easier. I don't think you'd believe me if I told you the amount of time (approimately my entire fourth year of graduate school) I've spent just organzing data, or 'data wrangling', before I could even begin to think about analyzing it. 
 
 ![sciencegif](https://github.com/saspera/assets/blob/master/ronburgundyscience.gif)
@@ -292,8 +292,17 @@ data formatting best practice still apply
 
 #### Save your Word file as you're going to add to it in Part B of the lab 
 
-### B. Introduction
+### Part B. Introduction
 You were just handed field notes on research on density of ticks on the [Blandy Experimental Farm](https://www.neonscience.org/field-sites/blan) in Northern Virginia. Your advisor said that the field researcher went out to sample and perform tick counts over different land-covers, in pasture and in deciduous forest cover. She went out every three weeks where ticks had been previously detected, and six weeks everywhere else. She also told you that she sampled for abundance using drag cloths – [i.e. dragging a cloth behind her while walking in predetermined areas, and then counting the ticks that became attached to it](https://en.wikipedia.org/wiki/Tick_dragging). This work may seem tedious, but determining where and when ticks are most prevalent are essential for understanding the transmission of debilitating diseases like Lyme disease, particularly as Lyme and other tick-borne diseases doubled between 2004 and 2016, from 22,000 to 48,000 [Bai et al. 2016](https://www.ucsf.edu/news/2018/05/410401/lyme-disease-rise-expert-explains-why) and ticks that transmit Lyme disease are now found in over 48% of counties in the United States [Eisen et al. 2016](https://academic.oup.com/jme/article/53/2/349/2459744). 
+
+***CONSTRUCTING A HYPOTHESIS:
+From Turbek et al. 2016, Scientific Writing Made Easy (posted on Blackboard>Course Documents>Helpful Documents)
+A hypothesis is a testable explanation of an observed occurrence in nature, or, more specifically, why something you observed is occurring. Hypotheses relate directly to research questions, are written in the present tense, and can be tested through observation or experimentation. Although the terms “hypothesis” and “prediction” are often incorrectly used interchangeably, they refer to different but complementary concepts. A hypothesis attempts to explain the mechanism underlying a pattern, while a prediction states an expectation regarding the results. While challenging to construct, hypotheses provide powerful tools for structuring research, generating specific predictions, and designing experiments.
+Example:
+Observation: Brown-headed cowbird nestlings refrain from ejecting host offspring from the nest even though those offspring compete for limited parental resources.
+Research question: Why do nestling cowbirds tolerate the presence of host offspring in the nest?
+Hypothesis: The presence of host offspring causes parents to bring more food to the nest.
+Prediction: Cowbird nestlings will grow at a faster rate in nests that contain host offspring.
 
 ```diff 
 + Your advisor has given you a few tasks for these data. 
