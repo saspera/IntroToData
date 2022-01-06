@@ -319,7 +319,7 @@ Prediction: Cowbird nestlings will grow at a faster rate in nests that contain h
 
 ### What To Turn In
 #### For Parts 1, submit to Blackboard:
-*(Remember, Part 2 is answering the scientific method/scale worksheet on Blackboard)
+*(Remember, Part 2 is answering the scientific method/scale worksheet posted in the Lab 1 folder on Blackboard)
 - [ ] A Word document with
    - Your answers to the questions in Part A
    - A statement of the hypothesis you came up with in Part B
